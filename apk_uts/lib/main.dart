@@ -81,7 +81,7 @@ class _BottomNavigationBarExampleState
           ),
         ],
         currentIndex: _selectedIndex,
-        selectedItemColor: Colors.green[400],
+        selectedItemColor: Colors.green[500],
         onTap: _onItemTapped,
       ),
       drawer: Drawer(
